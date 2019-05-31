@@ -63,4 +63,29 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+<<<<<<< HEAD
 /* Your code starts here! */
+=======
+/* Your code starts here! */
+container {
+	margin: 0 auto;
+}
+
+/* navigation clickables */
+nav a {
+	color: lightgray;
+	font-size: 16px;
+	display: inline-block;
+	padding: 15px;
+}
+
+/* logo top right */
+nav img {
+	/*how to right align?*/
+}
+
+/* big title */
+h1 {
+	font-size: 64px;
+}
+>>>>>>> initial commit
