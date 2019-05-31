@@ -65,7 +65,8 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 container {
-	margin: 0 auto;
+	max-width: 500px;
+	margin: auto;
 }
 
 /* navigation clickables */
@@ -78,7 +79,7 @@ nav a {
 
 /* logo top right */
 .logo {
-	padding: 0px 0px 0px 80px;
+	padding: 0px 0px 0px 160px;
 }
 
 /* big title */
