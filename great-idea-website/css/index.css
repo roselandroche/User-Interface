@@ -80,8 +80,8 @@ nav a {
 }
 
 /* logo top right */
-nav img {
-	/*how to right align?*/
+.logo {
+	padding: 0px 0px 0px 80px;
 }
 
 /* big title */
