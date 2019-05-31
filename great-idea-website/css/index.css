@@ -85,4 +85,9 @@ nav a {
 /* big title */
 h1 {
 	font-size: 72px;
+	width: 100px;
+}
+
+.top-section {
+	display: inline-block;
 }
