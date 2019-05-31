@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-container {
+html {
 	max-width: 500px;
 	margin: auto;
 }
@@ -79,7 +79,7 @@ nav a {
 
 /* logo top right */
 .logo {
-	padding: 0px 0px 0px 160px;
+	padding: 15px 0px 0px 140px;
 }
 
 /* big title */
