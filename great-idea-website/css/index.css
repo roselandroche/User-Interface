@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 html {
-	max-width: 500px;
+	max-width: 900px;
 	margin: auto;
 }
 
@@ -84,5 +84,5 @@ nav a {
 
 /* big title */
 h1 {
-	font-size: 64px;
+	font-size: 72px;
 }
