@@ -65,15 +65,16 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 html {
-	max-width: 900px;
+	max-width: 840px;
 	margin: auto;
+	border-left: 1px solid lightgray;
+	border-right: 1px solid lightgray;
 }
 
 /* navigation clickables */
 nav a {
 	color: lightgray;
 	font-size: 16px;
-	display: inline-block;
 	padding: 15px;
 }
 
@@ -85,9 +86,11 @@ nav a {
 /* big title */
 h1 {
 	font-size: 72px;
-	width: 100px;
+	width: 150px;
 }
 
 .top-section {
 	display: inline-block;
+	border-bottom: 1px solid black;
+	width: 840px;
 }
