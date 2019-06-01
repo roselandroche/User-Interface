@@ -63,9 +63,11 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+
+
 /* Your code starts here! */
 html {
-	max-width: 840px;
+	max-width: 950px;
 	margin: auto;
 	border-left: 1px solid lightgray;
 	border-right: 1px solid lightgray;
@@ -77,13 +79,15 @@ nav a {
 	color: lightgray;
 	font-size: 14px;
 	padding: 15px;
+	text-decoration: none;
 }
 
 /* logo top right */
 .logo {
-	padding: 15px 0px 0px 140px;
+	padding: 15px 0px 0px 235px;
 }
 
+/* header */
 .top-section {
 	display: inline-block;
 	border-bottom: 1px solid black;
@@ -94,8 +98,8 @@ nav a {
 /* big title */
 h1 {
 	font-size: 72px;
-	width: 150px;
-	padding-left: 160px;
+	width: 120px;
+	padding-left: 100px;
 }
 
 .top-main {
