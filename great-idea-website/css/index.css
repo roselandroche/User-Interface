@@ -94,3 +94,7 @@ h1 {
 	border-bottom: 1px solid black;
 	width: 840px;
 }
+
+.top-main {
+	display: inline-block;
+}
