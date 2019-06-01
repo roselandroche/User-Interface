@@ -99,12 +99,18 @@ nav a {
 h1 {
 	display: inline-block;
 	font-size: 72px;
-	width: 290px;
+	width: 48%;
 	margin: 80px 80px 80px 60px;
+}
+
+.header img {
+	display: inline-block;
+	width: 48%;
 }
 
 /* button */
 button {
+	display: block;
 	box-sizing: border-box;
 	border: 2px solid black;
 	background-color: white;
