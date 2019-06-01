@@ -116,7 +116,7 @@ h1 {
 
 /* button */
 button {
-	display: block;
+	display: inline-block;
 	box-sizing: border-box;
 	border: 2px solid black;
 	background-color: white;
