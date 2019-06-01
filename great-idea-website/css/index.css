@@ -69,9 +69,14 @@ h1, h2, h3, h4, h5 {
 html {
 	max-width: 950px;
 	margin: auto;
+	padding-left: 50px;
+}
+/* left and right border */
+.container {
+	padding-left: 200px;
+	padding-right: 20px;
 	border-left: 1px solid lightgray;
 	border-right: 1px solid lightgray;
-	padding-left: 50px;
 }
 
 /* navigation clickables */
