@@ -159,9 +159,8 @@ main {
 	padding-bottom: 10px;
 }
 
-.top p {
+.top-p {
 	display: inline-block;
-	padding-bottom: 10px;
 	width: 49%;
 	padding: 10px 10px 20px 15px;
 }
