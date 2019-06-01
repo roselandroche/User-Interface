@@ -192,15 +192,10 @@ main {
 	margin-bottom: 40px;
 }
 
-.bottom-p {
+.bottom-h5 {
 	display: inline-block;
 	width: 100px;
 	padding: 20px 250px 20px 15px;
-}
-
-h5 {
-	display: inline-block;
-	width: 90px;
 }
 
 .contact-info {
