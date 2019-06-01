@@ -77,6 +77,7 @@ html {
 	padding-right: 20px;
 	border-left: 1px solid lightgray;
 	border-right: 1px solid lightgray;
+	box-sizing: border-box;
 }
 
 /* navigation clickables */
@@ -96,7 +97,6 @@ nav a {
 /* header */
 .header {
 	display: inline-block;
-	border-bottom: 1px solid black;
 	width: 840px;
 	padding: 50px 5px 60px 80px;
 }
@@ -129,11 +129,21 @@ button {
 	letter-spacing: 1px;
 }
 
+main {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	display: inline-block;
+}
+
 .top-main {
 	display: inline-block;
 	width: 840px;
 	padding-top: 20px;
 	padding-bottom: 10px;
+}
+
+.bottom-main {
+	margin-bottom: 40px;
 }
 
 h6 {
