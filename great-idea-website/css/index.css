@@ -159,23 +159,17 @@ main {
 	padding-bottom: 10px;
 }
 
-.top-main p {
+.top p {
 	display: inline-block;
 	padding-bottom: 10px;
-	width: 50%;
-	padding: 10px 85px 20px 10px;
+	width: 49%;
+	padding: 10px 10px 20px 15px;
 }
 
 .first-h5 {
 	display: inline-block;
 	width: 90px;
 	padding: 20px 400px 5px 15px;
-}
-
-.top-p {
-	display: inline-block;
-	width: 49%;
-	padding: 5px 10px 10px 0px;
 }
 
 .middle-img {
