@@ -172,9 +172,9 @@ main {
 	padding: 10px 400px 20px 10px;
 }
 
-.first-p {
-	display: block;
-}
+/* .first-p {
+	display: inline-block;
+} */
 
 .second-p {
 	display: inline-block;
@@ -201,6 +201,7 @@ main {
 
 .bottom-p1 {
 	width: 28%;
+	display: inline-block;
 }
 
 .bottom-p {
