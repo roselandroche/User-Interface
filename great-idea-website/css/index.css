@@ -97,14 +97,10 @@ nav a {
 
 /* big title */
 h1 {
-	font-size: 72px;
-	width: 120px;
-	padding-left: 100px;
-}
-
-.top-main {
 	display: inline-block;
-	width: 840px;
+	font-size: 72px;
+	width: 290px;
+	margin: 80px 80px 80px 60px;
 }
 
 /* button */
@@ -112,10 +108,27 @@ button {
 	box-sizing: border-box;
 	border: 2px solid black;
 	background-color: white;
-	width: 150px;
+	width: 160px;
 	height: 30px;
 	font-size: 18px;
 	font-family: 'Titillium Web';
-	padding: 15px 25px 40px 25px;
-	
+	padding: 10px 25px 35px 25px;
+	margin: 0px;
+	letter-spacing: 1px;
+}
+
+.top-main {
+	display: inline-block;
+	width: 840px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+h6 {
+	display: inline-block;
+}
+
+p {
+	display: inline-block;
+	padding-bottom: 10px;
 }
