@@ -112,7 +112,7 @@ h1 {
 .header img {
 	display: inline-block;
 	width: 45%;
-	margin: 0 auto;
+	vertical-align: middle;
 }
 
 /* button */
