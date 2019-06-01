@@ -162,7 +162,8 @@ main {
 .top-main p {
 	display: inline-block;
 	padding-bottom: 10px;
-	width: 40%;
+	width: 50%;
+	padding: 10px 85px 20px 10px;
 }
 
 .first-h5 {
@@ -172,7 +173,11 @@ main {
 }
 
 .first-p {
-	
+	display: block;
+}
+
+.second-p {
+	display: inline-block;
 }
 
 .middle-img {
