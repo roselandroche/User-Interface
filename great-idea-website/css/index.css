@@ -166,6 +166,7 @@ main {
 }
 
 .middle-img {
+	display: block;
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
@@ -182,9 +183,9 @@ main {
 	width: 30%;
 }
 
-h6 {
+h5 {
 	display: inline-block;
-	width: 50px;
+	width: 90px;
 }
 
 .contact-info {
