@@ -195,19 +195,20 @@ main {
 
 .bottom-h5 {
 	display: inline-block;
-	width: 100px;
+	width: 32%;
 	padding: 20px 250px 20px 15px;
 }
 
-.bottom-p1 {
-	width: 28%;
+.bottom-p {
+	width: 32%;
 	display: inline-block;
+	padding: 10px 20px 20px 15px;
 }
 
-.bottom-p {
+/* .bottom-p {
 	display: inline-block;
 	width: 28%;
-}
+} */
 
 .contact-info {
 	margin-top: 40px;
