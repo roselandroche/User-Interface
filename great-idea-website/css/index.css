@@ -172,12 +172,10 @@ main {
 	padding: 10px 400px 20px 10px;
 }
 
-/* .first-p {
+.top-p {
 	display: inline-block;
-} */
-
-.second-p {
-	display: inline-block;
+	width: 49%;
+	padding: 5px 10px 10px 0px;
 }
 
 .middle-img {
