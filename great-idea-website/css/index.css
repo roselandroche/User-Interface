@@ -165,6 +165,10 @@ main {
 	width: 40%;
 }
 
+.first-p {
+	display: block;
+}
+
 .middle-img {
 	display: block;
 	width: 800px;
