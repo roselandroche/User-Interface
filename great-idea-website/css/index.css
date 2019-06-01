@@ -109,6 +109,10 @@ h1 {
 	vertical-align: middle;
 }
 
+.word {
+	display: block;
+}
+
 .header img {
 	display: inline-block;
 	width: 45%;
