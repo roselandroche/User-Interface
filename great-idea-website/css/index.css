@@ -109,8 +109,16 @@ h1 {
 	vertical-align: middle;
 }
 
-.word {
+.word1, .word2, .word3 {
 	display: block;
+}
+
+.word2 {
+	padding-left: 90px;
+}
+
+.word3 {
+	padding-left: 30px;
 }
 
 .header img {
