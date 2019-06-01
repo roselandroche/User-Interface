@@ -69,12 +69,13 @@ html {
 	margin: auto;
 	border-left: 1px solid lightgray;
 	border-right: 1px solid lightgray;
+	padding-left: 50px;
 }
 
 /* navigation clickables */
 nav a {
 	color: lightgray;
-	font-size: 16px;
+	font-size: 14px;
 	padding: 15px;
 }
 
@@ -83,18 +84,21 @@ nav a {
 	padding: 15px 0px 0px 140px;
 }
 
-/* big title */
-h1 {
-	font-size: 72px;
-	width: 150px;
-}
-
 .top-section {
 	display: inline-block;
 	border-bottom: 1px solid black;
 	width: 840px;
+	padding: 50px 5px 60px 80px;
+}
+
+/* big title */
+h1 {
+	font-size: 72px;
+	width: 150px;
+	padding-left: 160px;
 }
 
 .top-main {
 	display: inline-block;
+	width: 840px;
 }
