@@ -190,12 +190,22 @@ main {
 
 .bottom-main {
 	margin-bottom: 40px;
+	padding: 10px 20px 20px 15 px;
 }
 
 .bottom-h5 {
 	display: inline-block;
 	width: 100px;
 	padding: 20px 250px 20px 15px;
+}
+
+.bottom-p1 {
+	width: 28%;
+}
+
+.bottom-p {
+	display: inline-block;
+	width: 28%;
 }
 
 .contact-info {
