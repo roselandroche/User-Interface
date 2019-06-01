@@ -111,6 +111,7 @@ h1 {
 
 .word1, .word2, .word3 {
 	display: block;
+	letter-spacing: 3px;
 }
 
 .word2 {
@@ -138,7 +139,7 @@ button {
 	font-size: 18px;
 	font-family: 'Titillium Web';
 	padding: 10px 25px 35px 25px;
-	margin-left: 75px;
+	margin-left: 60px;
 	letter-spacing: 1px;
 }
 
