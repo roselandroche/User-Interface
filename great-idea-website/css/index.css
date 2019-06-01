@@ -165,8 +165,14 @@ main {
 	width: 40%;
 }
 
-.first-p {
+.first-h5 {
 	display: block;
+	width: 90px;
+	padding-right: 20px;
+}
+
+.first-p {
+	
 }
 
 .middle-img {
