@@ -154,3 +154,9 @@ p {
 	display: inline-block;
 	padding-bottom: 10px;
 }
+
+.contact-info {
+	margin-top: 40px;
+	width: 180px;
+	line-height: 18px;
+}
