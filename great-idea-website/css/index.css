@@ -134,7 +134,6 @@ main {
 	display: inline-block;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
-	display: inline-block;
 }
 
 .top-main {
@@ -142,6 +141,12 @@ main {
 	width: 840px;
 	padding-top: 20px;
 	padding-bottom: 10px;
+}
+
+.top-main p {
+	display: inline-block;
+	padding-bottom: 10px;
+	width: 40%;
 }
 
 .middle-img {
@@ -155,21 +160,15 @@ main {
 	margin-bottom: 40px;
 }
 
-h6 {
-	display: inline-block;
-	width: 50px;
-}
-
-.top-main p {
-	display: inline-block;
-	padding-bottom: 10px;
-	width: 40%;
-}
-
 .bottom-main p {
 	display: inline-block;
 	padding-bottom: 10px;
 	width: 30%;
+}
+
+h6 {
+	display: inline-block;
+	width: 50px;
 }
 
 .contact-info {
