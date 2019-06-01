@@ -192,10 +192,10 @@ main {
 	margin-bottom: 40px;
 }
 
-.bottom-main p {
+.bottom-p {
 	display: inline-block;
-	padding-bottom: 10px;
-	width: 30%;
+	width: 100px;
+	padding: 20px 250px 20px 15px;
 }
 
 h5 {
